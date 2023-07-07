@@ -6,6 +6,7 @@ body{
     margin: 0;
     margin-left: 10%;
     font-size: 26px;
+    margin-top: 20px;
 }
 h3{
     margin-top: 200px;
@@ -27,4 +28,14 @@ input{
     text-align: center;
     padding-left: 132px;
     padding-right: 132px;
+}
+.button{
+    background-color: green;
+    color: wheat;
+    font-size: bolder;
+    padding: 10px 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+    margin-left: 300px;
+    
 }
