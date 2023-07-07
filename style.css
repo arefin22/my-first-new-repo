@@ -24,20 +24,24 @@ input{
     margin-bottom: 10px;
     justify-content: center;
     text-align: center;
+    margin-left: 40%;
 }
 
 input::placeholder{
     font-size: large;
 }
-/* 
+
 .submit{
     text-align: center;
-} */
+    padding: 0 97px;
+}
 .button{
     background-color: green;
     color: wheat;
     font-size: bolder;
+    margin-top: auto;
     padding: 10px 20px;
     border-radius: 10px;
-    box-shadow: 5px 5px 5px black;  
+    box-shadow: 5px 5px 5px black;      
+    text-decoration: none;
 }
